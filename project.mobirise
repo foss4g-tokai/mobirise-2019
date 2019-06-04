@@ -55,7 +55,7 @@
         "main": true,
         "title": "FOSS4G TOKAI 2019",
         "meta_descr": "FOSS4GとはFree Open Source Software for GeoSpatialの略であり， オープンソースの地理情報ソフトウェアを指しています．\nFOSS4G TOKAI は東海地方のイベントとして， 2017年にスタートし今回で３回目の開催です．",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:title\" content=\"FOSS4G TOKAI 2019 -INSIGHT-\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:url\" content=\"https://foss4g-tokai.github.io/2019/\" />\n<meta property=\"og:image\" content=\"https://foss4g-tokai.github.io/2019/assets/images/tokai-logo-2-436x308.png\" />",
         "footer_custom": "",
         "html_before": ""
       },
